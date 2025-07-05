@@ -18,9 +18,8 @@
 # 📚 Key Projects 
 
 <ul>
-   <li> <a href="https://github.com/NYIT-EENG-755-CSCI-690/LexiBot"> 
-LexiBot</a>: Built LexiBot, an AI-powered Wordle assistant using NLP and AWS to deliver real-time word predictions—boosting user accuracy by up to 40%. Try it at <a href="http://www.lexibotai.com/"> 
-lexibotai.com</a>.</li>
+   <li> <a href="http://www.lexibotai.com/">
+LexiBot</a>: Built LexiBot, an AI-powered Wordle assistant using NLP and AWS to deliver real-time word predictions—boosting user accuracy by up to 40%.</li>
   <li> <a href="https://github.com/achen0329/StockOptions-OFFICIAL"> 
 StockPulse</a>: Developed Single Page Application (SPA), integrating the Alpha Vantage API for real-time stock data retrieval, ensuring accuracy with data from the last 10 trading days.</li>
   <li> <a href="https://github.com/achen0329/RoundRobinPro"> 
